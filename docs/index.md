@@ -18,6 +18,7 @@ Apache Airflow 및 자체 개발한 ML Workflow 서비스를 사용하여 보유
 ML inference의 결과는 자체 개발한 LightningDB에 저장되어 메타데이터 기반으로 지연없는 데이터 검색 및 객체로부터 추출한 feature value 기반으로 유사 이미지 검색을 지원하고 있습니다.
 
 ![MetaVision2 Architecture](./images/metavision2_index_architecture.png)
+<center><b>< MetaVision2 Architecture ></b></center>
 
 # 3. Features
 

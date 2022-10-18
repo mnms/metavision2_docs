@@ -13,13 +13,9 @@ nav:
   - Introduction:
     - Overview: index.md
 
-  - Data Lake:
-    - File explore: datalake_file_explore.md
-    - File search: datalake_file_search.md
-
-  - Data Warehouse:
-    - Metadata explore: datawarehouse_metadata_explore.md
-    - Metadata search: datawarehouse_metadata_search.md
+  - Storage & Database:
+    - Data Lake: data_lake.md
+    - Data Warehouse: data_warehouse.md
 
   - Management:
     - Dashboard: dashboard.md
