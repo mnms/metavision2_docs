@@ -12,6 +12,8 @@ repo_url: https://github.com/mnms/metavision2_docs
 nav:
   - Introduction:
     - Overview: index.md
+    - Register & Sign in: login.md
+    - Create project: project.md
 
   - Storage & Database:
     - Data Lake: data_lake.md
