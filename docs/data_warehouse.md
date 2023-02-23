@@ -12,8 +12,7 @@
 그 외에 <b>create dataset</b> 기능을 사용하여, 검색을 통해 수집한 파일들을 별도의 dataset으로 저장하여 관리할 수 있습니다.
 
 
-![MetaVision2 Create Dataset](./images/metavision2_data_warehouse_create_dataset
-_preview.png)
+![MetaVision2 Create Dataset](./images/metavision2_data_warehouse_create_dataset_preview.png)
 <center><b>< 신규 dataset 생성 ></b></center>
 
 
